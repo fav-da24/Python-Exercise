@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Data</title>
+</head>
+<body>
+<h1>Stored Receipts Data</h1>
+<ul>
+{% for row in results %}
+    <li>{{ row[1] }}</li>  <!-- Assuming 2nd column contains data -->
+{% endfor %}
+</ul>
+
+</body>
+</html>
