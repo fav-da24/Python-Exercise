@@ -1,0 +1,5 @@
+first = input("Enter the first number: ")
+second = input("Enter the second number: ")
+third = input("Enter the third number: ")
+largest = max(first, second, third)
+print("The largest number is: ", largest)
