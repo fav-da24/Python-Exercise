@@ -17,7 +17,7 @@ A simple PDF reader web application built with Flask. This project demonstrates 
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/pdf_reader.git
+   git clone https://github.com/fav-da24/pdf_reader.git
    cd pdf_reader
    ```
 
@@ -76,12 +76,3 @@ This project is licensed under the MIT License – see the [LICENSE](LICENSE) fi
 ## Contact
 
 For any questions or support, please contact [your-email@example.com](mailto:your-email@example.com).
-
-
-### Tips for Customization
-
-- Replace `your-username` in the clone URL with your GitHub username.
-- Customize the email address and license information as needed.
-- Add any additional sections or instructions specific to your project.
-
-This README provides a clear and concise guide to setting up, running, and using your Flask-based PDF reader application.
